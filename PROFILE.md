@@ -1,1 +1,2 @@
-hello
+hello 
+main=1
